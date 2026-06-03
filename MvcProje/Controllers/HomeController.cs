@@ -15,7 +15,7 @@ namespace MvcProje.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Burası açıklama alanıdır.";
 
             return View();
         }
